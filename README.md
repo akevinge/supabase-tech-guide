@@ -9,6 +9,9 @@ Looking to hook your app up with a DB? Tired of Firebase?
 1. [Supabase setup](#supabase-setup)
 2. [Creating models](#creating-your-models)
 3. [Coding up the client and queries](#coding-up-a-db-client)
+  - [Simple query exampels](#query-examples)
+  - [More complex query exampels](#query-examples)
+
 4. [Misc](#misc-ignore-unless-applicable)
 
 ## Supabase Setup
@@ -155,6 +158,8 @@ Simple, project agnostic queries. If you skipped to here, see: [Supabase project
 #### More Complex Queries
 
 Complex, project agnostic queries. If you skipped to here, see: [Supabase project initialization](https://supabase.com/docs/reference/javascript/initializing).
+
+Adding RPC calls for non-supported SDK functions. TODO(akevinge).
 
 A query to select the top 10 most liked posts among a user's friends:
 
