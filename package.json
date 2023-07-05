@@ -1,0 +1,23 @@
+{
+  "name": "techguide-supabase",
+  "version": "1.0.0",
+  "description": "// DO NOT SUBMIT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "preview": "mdstart README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "// DO NOT SUBMIT"
+  },
+  "author": "HackUTD",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.26.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "md-fileserver": "^1.9.2"
+  }
+}
